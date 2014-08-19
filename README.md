@@ -1,7 +1,9 @@
 Simulate and compare different page replacement algorithms
 ========
 Author:  Jason Ronquillo
+
 summer 2014
+
 This Filename:  README.docx
 
 Files included:

@@ -54,16 +54,15 @@ Analysis of results:
 
 	The author chose to use three separate sets of page sequence data in various patterns - with counts of 12, 20, and 50 pages respectively.  Each sequence was processed with frame sizes of three and six, for a total of six result data sets.  Below is the number of faults generated for each algorithm, grouped by the number of pages in the sequence.
 
- 	# of Faults
-12 Page Sequence	
- 	OPT	LRU	Clock
+ 	# of Faults 12 Page Sequence	
+ 		OPT	LRU	Clock
 3 Frames	6	7	6
 6 Frames	5	5	6
 
-	# of Faults, 20 Page Sequence	 
+	# of Faults, 20 Page Sequence
  	        OPT	LRU	Clock
-3 Frames	9	  12	11
-6 Frames	9	  9	  9
+3 Frames	9	12	11
+6 Frames	9	9	9
 
 	# of Faults
 50 Page Sequence	 

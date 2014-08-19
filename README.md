@@ -18,7 +18,8 @@ Files included:
 	- Makefile
 
 Compilation instructions:
-	- Once inside the correct directory with the files, use these commands (in order):
+
+	Once inside the correct directory with the files, use these commands (in order):
 	
 		- % make clean
 		
@@ -28,12 +29,12 @@ Compilation instructions:
 
 Description / user instructions: 
 
-	This program simulates the OPT, LRU, and Clock page replacement algorithms.  Upon executing the program, 
-	the user will be prompted to enter a number to represent the number of frames used in the simulation of 
-	each algorithm.  The sequence of pages used in the simulation is found in pages.txt, and this sequence 
-	will be displayed on the console upon execution.  The user will only need to enter the number of desired 
-	frames, and then press ‘Enter’ twice.  Then (after pressing the ‘Enter’ key twice) the results of each 
-	algorithm after processing the same sequence of pages is displayed.
+	This program simulates the OPT, LRU, and Clock page replacement algorithms.  Upon executing the 
+	program, the user will be prompted to enter a number to represent the number of frames used in the 
+	simulation of each algorithm.  The sequence of pages used in the simulation is found in pages.txt, 
+	and this sequence will be displayed on the console upon execution.  The user will only need to 
+	enter the number of desired frames, and then press ‘Enter’ twice.  Then (after pressing the ‘Enter’ 
+	key twice) the results of each algorithm after processing the same sequence of pages is displayed.
 	
 	The results are displayed as follows:
 	

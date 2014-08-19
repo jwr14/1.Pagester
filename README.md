@@ -1,4 +1,4 @@
-Simulates and compares different page replacement algorithms
+Simulate and compare different page replacement algorithms
 ========
 Author:  Jason Ronquillo
 summer 2014

@@ -1,4 +1,4 @@
-Simulate and compare different page replacement algorithms
+Simulate and compare different page replacement algorithms (in C)
 ========
 Author:  Jason Ronquillo
 

@@ -7,6 +7,7 @@ summer 2014
 This Filename:  README.docx
 
 Files included:
+
 	- main.c
 	
 	- functions.c
@@ -40,21 +41,21 @@ Description / user instructions:
 	
 	The results are displayed as follows:
 	
-  - Columns represent the contents of the frames, in order from left to right
+  		- Columns represent the contents of the frames, in order from left to right
   
-  - The number of columns(frames) is chosen by the user
+  		- The number of columns(frames) is chosen by the user
   
-  - An empty frame is represented by -1
+  		- An empty frame is represented by -1
   
-  - Each row represents an incoming page from the sequence in ‘pages.txt’
+  		- Each row represents an incoming page from the sequence in ‘pages.txt’
   
-  - There is one extra column that displays when a page in the sequence results in a page fault
+  		- There is one extra column that displays when a page in the sequence results in a page fault
   
-  - Finally, the total number of faults is displayed after the last row.
+  		- Finally, the total number of faults is displayed after the last row.
   
-  - This complete display is repeated for each algorithm for a total of 3 times
+  		- This complete display is repeated for each algorithm for a total of 3 times
   
-  - The user may need to scroll up and/or down to see the entire display
+  		- The user may need to scroll up and/or down to see the entire display
   
 
 	The ‘sequences’ file contains three separate page sequences of varying lengths.  Prior to the 

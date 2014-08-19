@@ -1,8 +1,6 @@
 /*
 Author:  Jason Ronquillo
 These functions are used to simulate the OPT, LRU, and Clock page replacement algorithms.
-Some ideas and code where used from the below link:
-http://codearea.in/page-replacement-algorithms-fifo-lru-optimal/
 */
 
 #include<stdio.h> 
